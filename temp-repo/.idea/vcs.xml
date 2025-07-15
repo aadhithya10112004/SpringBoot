@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day_03/Task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day_03/Task/Todotasktracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day_03/springbootstudent" vcs="Git" />
+  </component>
+</project>
